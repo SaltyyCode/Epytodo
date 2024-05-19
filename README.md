@@ -44,3 +44,7 @@ Run `sudo apt install nodejs npm -y`
 ### Start app
 
  Start sending requests after lauching the app using `node src/index.js` or `npm run start`
+
+![331581874-eaafb945-952f-4861-82fb-e182541d12d4](https://github.com/SaltyyCode/Epytodo/assets/141867236/8d8c5337-eead-46d8-ab55-a0c6e2a2af28)
+
+ 
